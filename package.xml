@@ -1,17 +1,13 @@
 <?xml version="1.0"?>
 <package>
-  <name>orne_maps</name>
-  <version>0.0.1</version>
-  <description>orne_maps provides sharing maps for Tsukuba Challenge</description>
+    <name>orne_maps</name>
+    <version>0.1.1</version>
+    <description>orne_maps provides sharing maps for Tsukuba Challenge under Project ORNE.</description>
 
-  <maintainer email="d.maekawa@rapyuta-robotics.com">Daiki Maekawa</maintainer>
+    <maintainer email="d.maekawa@rapyuta-robotics.com">Daiki Maekawa</maintainer>
+    <author email="d.maekawa@rapyuta-robotics.com">Daiki Maekawa</author>
 
-  <license>BSD</license>
-  
-  <author email="d.maekawa@rapyuta-robotics.com">Daiki Maekawa</author>
+    <license>BSD</license>
 
-  <buildtool_depend>catkin</buildtool_depend>
-
-  <export>
-  </export>
+    <buildtool_depend>catkin</buildtool_depend>
 </package>
